@@ -33,3 +33,9 @@ Example Analysis:
 
 Expected Output:
 The sum of all priority values (157 for this example)
+
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/6a30aac3-8d26-4e15-99e2-1b6b25038255)
+
+
